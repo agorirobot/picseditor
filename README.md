@@ -20,7 +20,7 @@
 
 [![AgBotz](https://img.shields.io/badge/Agbotz-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Agorirobot)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![AgBotz](https://img.shields.io/badge/agorirobot-Support-red?style=flat&logo=telegram)](https://telegram.dog/AgBotz support)  [![Agbotz](https://img.shields.io/badge/Agbotz-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![AgBotz](https://img.shields.io/badge/agorirobot-Support-red?style=flat&logo=telegram)](https://telegram.dog/AgBotz-support)  [![Agbotz](https://img.shields.io/badge/Agbotz-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Image-Editor)
 
