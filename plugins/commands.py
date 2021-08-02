@@ -19,7 +19,7 @@ async def start(client: Client, message: Message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            url="https://github.com/agorirobot/picseditor",
                         )
                     ],
                 ]
@@ -71,7 +71,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            url="https://github.com/Agorirobot/Picseditor",
                         )
                     ],
                 ]
